@@ -6,7 +6,7 @@ PtLanka is an online corpus of Sri Lanka Portuguese lexicon and phonology. This 
 
 # How to use PtLanka
 
-Users can browse or search lexical items or any particular features provided by clicking on "PtLanka.cvs" above and using the tab "search this file". Data can be downloaded by clicking the code button and then download zip. If you use PtLanka in your research, please cite appropriately, following the recommended citation below.
+Users can browse or search lexical items or any particular features provided by clicking on "PtLanka.csv" above and using the tab "search this file". Data can be downloaded by clicking the code button and then download zip. If you use PtLanka in your research, please cite appropriately, following the recommended citation below.
 
 # How to cite PtLanka
 
