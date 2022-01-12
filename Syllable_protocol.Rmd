@@ -1,0 +1,20 @@
+---
+title: "Syllables_protocol"
+author: "Carlos Silva"
+date: "12/01/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Before syllable parsing, we replaced the phonemes by larger categories:
+
+- T: corresponds to obstruents (consonants like T, which typically occur as first unit of an onset only);
+
+- R: corresponds to sonorants (consonants like R, which typically occur as onset- first or second unit- or coda);
+
+- V: corresponds to vowels;
+
+- D: corresponds to glides on the right of a vowel, therefore, forming a diphthong.
