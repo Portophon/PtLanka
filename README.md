@@ -10,4 +10,4 @@ Users can browse or search lexical items or any particular features provided by 
 
 # How to cite PtLanka
 
-TBA
+Silva, C. & Trigo, L. 2022. PtLanka. Porto: CLUP-Centro de Linguística da Universidade do Porto.
