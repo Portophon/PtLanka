@@ -545,8 +545,8 @@ Conforma,konfoɾma,TVR.TVR.RV,CVC.CVC.CV
 Confundá,konfundaː,TVR.TVR.TV,CVC.CVC.CV
 Confusado,konfuzado,TVR.TV.TV.TV,CVC.CV.CV.CV
 condusadoso,konduzadozo,TVR.TV.TV.TV.TV,CVC.CV.CV.CV.CV
-Consciancia,konssiansia,TVRSSV.VR.SV.V,CVCCCV.VC.CV.V
-conscencia,konssensia,TVRSSVR.SV.V,CVCCCVC.CV.V
+Consciancia,konsiansia,TVR.SV.VR.SV.V,CVC.CV.VC.CV.V
+conscencia,konsensia,TVR.SVR.SV.V,CVC.CVC.CV.V
 Consecrá,konsekɾaː,TVR.SV.TRV,CVC.CV.CCV
 Consecração,konsekɾasaːo,TVR.SV.TRV.SV.V,CVC.CV.CCV.CV.V
 Conselà,konselaː,TVR.SV.RV,CVC.CV.CV
@@ -616,12 +616,12 @@ Covodo,koʋodo,TV.TV.TV,CV.CV.CV
 covido,koʋido,TV.TV.TV,CV.CV.CV
 Creditor,kɾeditoɾ,TRV.TV.TVR,CCV.CV.CVC
 Crem,kɾem,TRVR,CCVC
-Crescentà,kɾessentaː,TRVSSVR.TV,CCVCCVC.CV
-criscentá,kɾissentaː,TRVSSVR.TV,CCVCCVC.CV
+Crescentà,kɾesentaː,TRV.SVR.TV,CCV.CVC.CV
+criscentá,kɾisentaː,TRV.SVR.TV,CCV.CVC.CV
 Criançè,kɾianseː,TRV.VR.SV,CCV.VC.CV
 criença,kɾiensa,TRV.VR.SV,CCV.VC.CV
 Criminal,kɾiminal,TRV.RVRVR,CCV.CVCVC
-Criscé,kɾisseː,TRVSSV,CCVCCV
+Criscé,kɾiseː,TRV.SV,CCV.CV
 crisé,kɾizeː,TRV.TV,CCV.CV
 Crucifigà,kɾusifigaː,TRV.SV.TV.TV,CCV.CV.CV.CV
 Cruveldade,kɾuʋeldade,TRV.TVR.TV.TV,CCV.CVC.CV.CV
@@ -688,7 +688,7 @@ Dér,deːɾ,TVR,CVC
 Deremá,deɾemaː,TV.RVRV,CV.CVCV
 Desasparà,dezaspaɾaː,TV.TVS.TV.RV,CV.CVC.CV.CV
 Descargà,deskaɾgaː,TVS.TVR.TV,CVC.CVC.CV
-Desci,dessi,TVSSV,CVCCV
+Desci,desi,TV.SV,CV.CV
 Desclorà,deskloɾaː,TVS.TRV.RV,CVC.CCV.CV
 Descompetido,deskompetido,TVS.TVR.TV.TV.TV,CVC.CVC.CV.CV.CV
 Descompetidomente,deskompetidomente,TVS.TVR.TV.TV.TV.RVR.TV,CVC.CVC.CV.CV.CV.CVC.CV
@@ -773,11 +773,11 @@ Dinhéro,diɲeːɾo,TV.RVRV,CV.CVCV
 Directà,diɾektaː,TV.RV.T.TV,CV.CV.C.CV
 Disaccordancè,dizakoɾdanseː,TV.TV.TVR.TVR.SV,CV.CV.CVC.CVC.CV
 Desapprovado,dezappɾoʋado,TV.TV.T.TRV.TV.TV,CV.CV.C.CCV.CV.CV
-Discé,disseː,TVSSV,CVCCV
-Discendé,dissendeː,TVSSVR.TV,CVCCVC.CV
-Discerto,disseɾto,TVSSVR.TV,CVCCVC.CV
-Discete,dissete,TVSSV.TV,CVCCV.CV
-Disciplo,dissiplo,TVSSV.TRV,CVCCV.CCV
+Discé,diseː,TV.SV,CV.CV
+Discendé,disendeː,TV.SVR.TV,CV.CVC.CV
+Discerto,diseɾto,TV.SVR.TV,CV.CVC.CV
+Discete,disete,TV.SV.TV,CV.CV.CV
+Disciplo,disiplo,TV.SV.TRV,CV.CV.CCV
 Disconfiador,diskonfiadoɾ,TVS.TVR.TV.V.TVR,CVC.CVC.CV.V.CVC
 Disconfiadeira,diskonfiadeiɾa,TVS.TVR.TV.V.TD.RV,CVC.CVC.CV.V.CVV.CV
 Disconsalado,diskonsalado,TVS.TVR.SV.RV.TV,CVC.CVC.CV.CV.CV
@@ -1721,7 +1721,7 @@ pasajo,pazad̠ʒo,TV.TV.TV,CV.CV.CV
 passai,pasai,TV.SV.V,CV.CV.V
 passei,pasei,TV.SD,CV.CVV
 Passá,pasaː,TV.SV,CV.CV
-Pascencia,passensia,TVSSVR.SV.V,CVCCVC.CV.V
+Pascencia,pasensia,TV.SVR.SV.V,CV.CVC.CV.V
 Pasco,pasko,TVS.TV,CVC.CV
 Pascoa-tempo,paskoa tempo,TVS.TV.V TVR.TV,CVC.CV.V CVC.CV
 Passangeiro,pasand̠ʒeiɾo,TV.SVR.TD.RV,CV.CVC.CVV.CV
@@ -2279,7 +2279,7 @@ Suppodomente,suppodomente,SV.T.TV.TV.RVR.TV,CV.C.CV.CV.CVC.CV
 Supporto,suppoɾto,SV.T.TVR.TV,CV.C.CVC.CV
 Suppressá,suppɾesaː,SV.T.TRV.SV,CV.C.CCV.CV
 Susaso,suzazo,SV.TV.TV,CV.CV.CV
-Suscedà,sussedaː,SVSSV.TV,CVCCV.CV
+Suscedà,susedaː,SV.SV.TV,CV.CV.CV
 susdé,suzdeː,SV.T.TV,CV.C.CV
 susté,susteː,SVS.TV,CVC.CV
 sosté,sosteː,SVS.TV,CVC.CV
