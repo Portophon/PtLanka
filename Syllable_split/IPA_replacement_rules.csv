@@ -33,9 +33,9 @@ ss,s
 c(?=[eéèêiíì]),s
 cs,ks
 cc,s
-^r,r
-rr,r
 (?<!r)r(?!r),ɾ
+^ɾ,r
+rr,r
 ll,l
 y,j
 (?<=[áàâéèêoóòôúùû])i,j
