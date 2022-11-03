@@ -4,7 +4,7 @@
 
 PtLanka is an online corpus of Sri Lanka Portuguese lexicon and phonology. This repository assembles a total of 2524 words of Sri Lanka Portuguese from its most complete dictionary (Dalgado,1900), which covers the lexicon from the extinct dialect of Colombo from the Sinhala-dominant region, and make it available online in a consistent format. Apart from the original orthography and notes, the database also includes a broad phonetic transcription, updated definition in Portuguese and English for each word, and some morphological annotation. This database makes it possible for researchers to explore the linguistic data, to formulate hypotheses on how the Sri Lanka Portuguese was formed and evolved and to assess the effects of contact with other languages, namely Dutch and English. Databases like this are  also instrumental in language documentation and conservation.
 
-The project "Syllable_split" (https://github.com/Portophon/Syllable_split) contains the notebook and replacement csv files that were used to split sylables -- presented in the Demo session -- Propor 2022.
+The project "Syllable_split" (https://github.com/Portophon/PtLanka/tree/main/Syllable_split) contains the notebook and replacement csv files that were used to split sylables -- presented in the Demo session -- Propor 2022.
 
 # How to use PtLanka
 
